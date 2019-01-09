@@ -1,2 +1,2 @@
-# Facebook-Udacity-scholarship-challenge-for-PyTorch
+# PyTorch-Facebook-Udacity-scholarship-challenge
 Iris Flower Image dataset
